@@ -14,6 +14,7 @@
 Language : Java
 <br/>
 Framework : Spring Boot
+Library : Thymeleaf
 
 #### FrontEnd
 Language : Html5, Css3, JavaScript
@@ -23,3 +24,5 @@ Library : jQuery
 #### DB
 Oracle
 
+#### API
+- **PortOne(결제)**

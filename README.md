@@ -14,3 +14,12 @@
 Language : Java
 <br/>
 Framework : Spring Boot
+
+#### FrontEnd
+Language : Html5, Css3, JavaScript
+<br/>
+Library : jQuery
+
+#### DB
+Oracle
+
